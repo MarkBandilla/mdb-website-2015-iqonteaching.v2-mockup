@@ -17,13 +17,13 @@ provides:
 
 * Mootools Simple Modal
 * Version 1.0
-* Copyright (c) 2011 Marco Dell'Anna - http://www.plasm.it
+* Copyright (c) 2011 Marco Dell'Anna - https://www.plasm.it
 *
 * Version 1.1
-* Copyright (c) 2013 Juan Lago - http://www.livespanske.com
+* Copyright (c) 2013 Juan Lago - https://www.livespanske.com
 *
 * Requires:
-* MooTools http://mootools.net
+* MooTools https://mootools.net
 *
 * Permission is hereby granted, free of charge, to any person
 * obtaining a copy of this software and associated documentation
